@@ -31,7 +31,7 @@ skills/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOURUSERNAME/ai-agent-skills.git
+git clone https://github.com/Robertheboys/ai-agent-skills.git
 ```
 
 ### 2. Copy skills to your project
